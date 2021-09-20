@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mikakonte
 - 🌌 I’m interested in astrophysics, data science, and science communication.
-- 🛠 I’m currently learning computational methods for nonlinear dynamics in Python.
+- 🛠 I’m currently learning computer modelling and statistics for physics.
 - 💬 How to reach me: Twitter @MikaKonte & LinkedIn Mika Kontiainen
 
 <!---
