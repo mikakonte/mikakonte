@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mikakonte
-- 🌌 I’m interested in astrophysics, data science, and science communication.
-- 🛠 I’m currently learning computer modelling and statistics for physics.
+- 🌌 I’m interested in astrophysics, nonlinear dynamics, and science communication.
+- 🛠 I’m currently studying chaos in triple systems.
 - 💬 How to reach me: Twitter @MikaKonte & LinkedIn Mika Kontiainen
 
 <!---
