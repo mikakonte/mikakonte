@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mikakonte
 - 🌌 I’m interested in astrophysics, nonlinear dynamics, and science communication.
-- 🛠 I’m currently studying chaos in triple systems.
+- 🛠 I’m currently studying planet formation.
 - 💬 How to reach me: Twitter @MikaKonte & LinkedIn Mika Kontiainen
 
 <!---
